@@ -1,0 +1,60 @@
+
+
+   body{background-color:beige;}
+   
+   .titulo
+   { text-align: center; 
+     color:orange;
+     font-size: 40px;}
+
+   .Hobbies{color: red;}
+
+   .paragrafo1
+   { font-size: 25px;
+     text-align: justify;}
+   
+    #msg
+    { font-size: 30px;
+      color:blue;} 
+
+   button{font-size: 20px;}
+   
+   .imagens{border-radius: 40px;}
+   
+   .link
+   { color:blue;
+     font-size: 30px;} 
+   .link :hover{color: red;}
+   
+   .lista{font-size:20px;}
+   .lista li{color:rgb(0, 47, 255);}
+   .item1{line-height:3;}
+   .item2{line-height:3;}
+   .item3{line-height:3;}
+   
+   .titulodatabela
+   {margin-left: 150px;
+    color: red      }
+    
+table, th, td
+    {box-shadow: 0px 0px 10px blue;
+    border: 10px solid;color: blue;
+    margin: 30px;}
+
+    table{border-collapse: collapse;}
+   
+th, td
+   {padding: 40px;
+    text-align: center;
+    width: 200px;
+    background-color: lightblue;}
+
+  .tdimg
+  {background-color: greenyellow;}
+  
+
+  .nomes{color: red;}
+  
+
+   
+
